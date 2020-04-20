@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49fd27f3-3f91-4aea-a292-3591c75aff95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiFUpqeK9xi9817WAe6Q8f56v6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.NameServer">
+    <configuration name="NameServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameServer" />
+      <module name="NameServerNode1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameServer []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.NameServer" />
+      <item itemvalue="Maven.NameServer []" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NameServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49fd27f3-3f91-4aea-a292-3591c75aff95" name="Default Changelist" comment="" />
+      <created>1587210525557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587210525557</updated>
+      <workItem from="1587210529790" duration="2143000" />
+      <workItem from="1587214321330" duration="631000" />
+      <workItem from="1587300000961" duration="4997000" />
+      <workItem from="1587375128001" duration="3027000" />
+      <workItem from="1587382225366" duration="8000" />
+      <workItem from="1587382562981" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="93" key="#NameServer" timestamp="1587329100689">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="870" y="93" key="#NameServer/0.0.1536.864@0.0.1536.864" timestamp="1587329100689" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587211992004">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587211992004" />
+    <state width="724" height="222" key="GridCell.Tab.0.bottom" timestamp="1587382211088">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587382211088" />
+    <state width="724" height="222" key="GridCell.Tab.0.center" timestamp="1587382211088">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="222" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587382211088" />
+    <state width="724" height="222" key="GridCell.Tab.0.left" timestamp="1587382211087">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="222" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587382211087" />
+    <state width="724" height="222" key="GridCell.Tab.0.right" timestamp="1587382211088">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="222" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587382211088" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587212132217">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587212132217" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587212132217">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587212132217" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587212132216">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587212132216" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587212132217">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587212132217" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1587211508315">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1587211508315" />
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587382225654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587382225654" />
+    <state x="952" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587300879238">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="952" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1587300879238" />
+  </component>
+</project>
